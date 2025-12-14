@@ -4,7 +4,7 @@ Este repositório contém a implementação do **Terceiro Trabalho da matéria R
 
 **Nota:** 90/100
 
-**Professor:** Marlos Marques
+**Professor:** Marlos Marques  
 **Semestre:** 2025.2
 
 ---
