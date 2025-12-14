@@ -18,6 +18,9 @@ O objetivo é implementar controle de erro e controle de fluxo utilizando o prot
 A implementação simula o envio de quadros do transmissor para o receptor, incluindo:
 
 * Detecção de erros na transmissão
+     * Bit de Paridade Par e Ímpar
+     * CRC
+     * Código de Hamming
 
 * Confirmação de recebimento (ACK)
 
